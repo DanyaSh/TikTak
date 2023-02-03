@@ -9,8 +9,6 @@ def tik_service():
 
 @app.route('/tik')
 def do_ping():
-    tik = 'Tik ...' #???
-
     response = ''
     try:
         response = requests.get('http://tak-service-container:5001/tak')
