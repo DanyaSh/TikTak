@@ -18,5 +18,5 @@ This is a simple script showing communication between docker containers.
 >Tik ... Tak
 6) Open your terminal and stop second service: 
 >       docker stop tak-service-container
-7) Now you can repeat point 5 to look: "Tik..." instead of "Tik... Tak"
+7) Now you can repeat point 5 to see: "Tik..." instead of "Tik... Tak"
 >Tik...
