@@ -16,7 +16,7 @@ This is a simple script showing communication between docker containers.
 >Hello, I am Tak service!
 5) Open your browser and go to [localhost:5000/tik](http://localhost:5000/tik) for check communication between docker containers
 >Tik ... Tak
-6) Open your terminal and type: 
+6) Open your terminal and type for stop second service: 
 >       docker stop tak-service-container
 7) Now you can repeat point 5 to look: "Tik..." instead of "Tik... Tak"
 >Tik...
