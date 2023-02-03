@@ -5,7 +5,6 @@ This is a simple script showing communication between docker containers.
 # Quick start
 0.1) Install Docker on your PC
 0.2) Clone this project on your PC
-
 1) Open your terminal in this work dir
 2) Type: docker-compose up -d
 2.1) Just wait a little
