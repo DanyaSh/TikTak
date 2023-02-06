@@ -8,7 +8,7 @@ def tik_service():
     return 'Hello, I am Tik service!'
 
 @app.route('/tik')
-def do_ping():
+def do_tik():
     response = ''
     try:
         response = requests.get('http://tak-service-container:5001/tak')
